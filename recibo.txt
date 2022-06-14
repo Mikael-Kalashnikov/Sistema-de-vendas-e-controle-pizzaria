@@ -1,0 +1,14 @@
+Pizzaria Mamute
+--------------------------------------------------
+Massa		20Kg 	 a 	 2.50/Kg 	= 	R$ 0
+Queijo		5Kg 	 a 	 2.50/Kg 	= 	R$ 0
+Massa		10Kg 	 a 	 2.50/Kg 	= 	R$ 0
+Frango		5Kg 	 a 	 2.50/Kg 	= 	R$ 0
+Molho		40Kg 	 a 	 2.50/Kg 	= 	R$ 0
+Queijo		30Kg 	 a 	 2.50/Kg 	= 	R$ 0
+Frango		10Kg 	 a 	 2.50/Kg 	= 	R$ 0
+Presunto		18Kg 	 a 	 2.50/Kg 	= 	R$ 0
+--------------------------------------------------
+							Compra	=	R$0
+						  Desconto	=	R$0
+							 Total	=	R$0
